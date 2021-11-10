@@ -5,7 +5,7 @@ Neste projeto, será utilizado o conceito da domótica com objetivo de moderniza
 
 Serão utilizados os seguintes componentes para realizar esse projeto:
 
-*- Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino:*
+- *Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino:*
 O arduino sera utilizado para fazer a "converção" entre sensores e dispositivos que realizão uma ação.
 
 *- Sensor de Umidade e Temperatura DHT11:*
@@ -34,4 +34,3 @@ O módulo relá será responssável para fazer o controle das luzes
 
 *-Display LCD 16×2 I2C Backlight Azul:*
 
-- Controlar a Iluminação dos Cômodos;
