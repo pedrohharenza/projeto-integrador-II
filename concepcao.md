@@ -1,9 +1,7 @@
 
 # Concepção
 
-Neste projeto, será utilizado o conceito da domótica com objetivo de modernizar e automatizar funções básicas dentro de uma casa a partir das necessidades do usuário exemplificando as possíveis tecnologias que podem ser implementadas além de manter o menor custo possível. Será utilizada uma maquete como referência.
-
-Os principais objetivos de automação são:
+Neste projeto, será utilizado o conceito da domótica com objetivo de modernizar e automatizar funções básicas dentro de uma casa a partir das necessidades do usuário exemplificando as possíveis tecnologias que podem ser implementadas além de manter o menor custo possível. Será utilizada uma maquete como referência. As principais implentações do projeto são:
 
 - Sensoriamento de gás de cozinha, ativando o buzzer para sinalizar a detectação de gas e desabilitar o acionamento das luzes para evitar acidentes e ativando a matriz de led para iluminação
 - Controlar um portão com acionamento eletrônico de forma inteligente avisando o usuário quando existir a presença de visitas atravez do display lcd
