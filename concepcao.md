@@ -32,7 +32,7 @@ Trabalhará em conjunto com o sensor de umidade, realizando o controle das persi
 Será utilizado para controlar o nível de água da piscina e a disponibilidade de água para regar o jardim
 
 **-Sensor ultrasônico HC-SR04:**
-Será responsável por detectar presença nas entradas como portas e janelas
+Será responsável por detectar presença nas entradas como portas e janelas e realizar o sensoriamento para abrir o portão
 
 **-Display LCD 16×2 I2C Backlight Azul:**
 Realizará a comunicação com o usuário para o controle do sistema de seguraça
