@@ -9,7 +9,7 @@ Neste projeto, será utilizado o conceito da domótica com objetivo de moderniza
 - Controle do nível de água, informando quando deve ser realizado o reabastecimento de água da piscina e regado as plantas do quintal
 - Sistema de seguraça nas entradas e janelas e detectação de movimento quando o usuário não estiver presente. Caso o sistema seja acionado o buzzer será ativado como forma de sinalização
 
-Serão utilizados os seguintes componentes para realizar esse projeto:
+## Serão utilizados os seguintes componentes para realizar esse projeto:
 
 **-Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino:**
 Será utilizado para fazer a "conversão" entre sensores e dispositivos que realizam uma ação.
