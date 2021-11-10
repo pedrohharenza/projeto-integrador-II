@@ -13,7 +13,7 @@ Os principais objetivos de automação são:
 
 Serão utilizados os seguintes componentes para realizar esse projeto:
 
-*- Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino:*
+*-- Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino:*
 Será utilizado para fazer a "conversão" entre sensores e dispositivos que realizam uma ação.
 *- Sensor de Umidade e Temperatura DHT11:*
 Será utilizado para determinar se as persianas estarão abertas ou não.
