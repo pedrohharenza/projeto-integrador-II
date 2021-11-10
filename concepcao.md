@@ -5,12 +5,12 @@ Neste projeto, será utilizado o conceito da domótica com objetivo de moderniza
 
 Os principais objetivos de automação são:
 
-- Controle de iluminação dos cômodos
+- Controle de iluminação dos cômodos atravez do sensor de movimentação
 - Sensoriamento de gás de cozinha
 - Controlar um portão com acionamento eletrônico
-- Efetuar o sensoriamento de temperatura e umidade
+- Efetuar o sensoriamento de temperatura e umidade com o controle das janelas
 - Controle do nível de água
-- Sistema de seguraça com ativação manual
+- Sistema de seguraça nas entradas e janelas com ativação automática
 
 Serão utilizados os seguintes componentes para realizar esse projeto:
 
