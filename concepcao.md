@@ -6,6 +6,7 @@ Neste projeto, será utilizado o conceito da domótica com objetivo de moderniza
 Serão utilizados os seguintes componentes para realizar esse projeto:
 
 *-Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino:*
+O arduino
 
 *-Sensor de Umidade e Temperatura DHT11:*
 
