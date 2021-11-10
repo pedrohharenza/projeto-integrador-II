@@ -23,14 +23,7 @@ Trabalhará em conjunto com o sensor de umidade, realizando o controle das persi
 - *Módulo Sensor de Umidade/Nível Água Chuva:*
 Será utilizado para controlar o nível de água da piscina
 
-- *Módulo Relé 5 V e um Canal:*
-Será responssável para fazer o controle das luzes
-
 - *Sensor ultrasônico HC-SR04:*
-
-- *Módulo Matriz de LED 8×8 com MAX7219:*
-
-- *Buzzer passivo:*
 
 - *Display LCD 16×2 I2C Backlight Azul:*
 
