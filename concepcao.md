@@ -4,11 +4,10 @@
 Neste projeto, será utilizado o conceito da domótica com objetivo de modernizar e automatizar funções básicas dentro de uma casa a partir das necessidades do usuário mantendo o menor custo possível. Será utilizadado uma maquete como referência.
 
 
-- Controlar a Iluminação dos Cômodos;
-- Efetuar o sensoriamento de Gás de Cozinha;
-- Controlar um Portão com acionamento Eletrônico;
-- Efetuar o sensoriamento de Temperatura e Umidade.
-
+- Controle de iluminação dos cômodos
+- Efetuar o sensoriamento de gás de cozinha
+- Controlar um portão com acionamento eletrônico
+- Efetuar o sensoriamento de tperatura e umidade
 
 Serão utilizados os seguintes componentes para realizar esse projeto:
 
