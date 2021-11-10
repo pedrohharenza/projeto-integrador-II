@@ -3,11 +3,11 @@
 
 Neste projeto, será utilizado o conceito da domótica com objetivo de modernizar e automatizar funções básicas dentro de uma casa a partir das necessidades do usuário exemplificando as possíveis tecnologias que podem ser implementadas além de manter o menor custo possível. Será utilizada uma maquete como referência, sendo as principais implentações do projeto:
 
-- Sensoriamento de gás de cozinha, ativando o buzzer para sinalizar a detectação de gas e desabilitar o acionamento das luzes para evitar acidentes e ativando a matriz de led para iluminação
-- Controlar um portão com acionamento eletrônico de forma inteligente avisando o usuário quando existir a presença de visitas atravez do display LCD
-- Efetuar o sensoriamento de temperatura e umidade com o controle das janelas
-- Controle do nível de água, informando quando deve ser realizado o reabastecimento de água da piscina e regado as plantas do quintal
-- Sistema de seguraça nas entradas e janelas e detectação de movimento quando o usuário não estiver presente. Caso o sistema seja acionado o buzzer será ativado como forma de sinalização
+- Sensoriamento de gás de cozinha, ativando o buzzer para sinalizar a detectação de gás e desabilitar o acionamento das luzes para evitar acidentes e ativando a matriz de led para iluminação.
+- Controlar um portão com acionamento eletrônico de forma inteligente avisando o usuário quando existir a presença de visitas atravez do display LCD, caso o potão esteja aberto por longos períodos ele fecha automáticamente.
+- Efetuar o sensoriamento de temperatura e realizar o controle das janelas ou do arcondicionado para manter a temperatura dessejada pelo usuário.
+- Controle do nível de água, informando quando deve ser realizado o reabastecimento de água da piscina ou regado as plantas do quintal.
+- Sistema de seguraça nas entradas e janelas e detectação de movimento quando o usuário não estiver presente (o sistema é ativado quando o usuário não é detectado por longos períodos) Caso o usuário volte a residencia o sistema pode ser desativo pelo computador. Caso o sistema de segurança seja acionado o buzzer será ativado como forma de sinalização.
 
 ## Serão utilizados os seguintes componentes para realizar esse projeto:
 
