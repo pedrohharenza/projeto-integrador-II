@@ -13,21 +13,21 @@ Os principais objetivos de automação são:
 
 Serão utilizados os seguintes componentes para realizar esse projeto:
 
--*Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino:*
+**-Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino:*
 Será utilizado para fazer a "conversão" entre sensores e dispositivos que realizam uma ação.
--*Sensor de Umidade e Temperatura DHT11:*
+**-Sensor de Umidade e Temperatura DHT11:*
 Será utilizado para determinar se as persianas estarão abertas ou não.
-*- Sensor de presença e movimento PIR:*
+**-Sensor de presença e movimento PIR:*
 Realizará o controle das luzes quando detectado o movimento no local, sem a necessidade de ir ao interruptor para controlar as luzes.
-*- Sensor de gás MQ-2 inflamável e fumaça:*
+**-Sensor de gás MQ-2 inflamável e fumaça:*
 Será colocado na cozinha. Quando ativado realizará o comando para o buzzer para sinalizar o proprietário, ativará a matriz de LED e desativará o controle das luzes com o interruptor impedindo qualquer tipo de acidente.
-*- Micro Servo SG92R 9g TowerPro:*
+**-Micro Servo SG92R 9g TowerPro:*
 Trabalhará em conjunto com o sensor de umidade, realizando o controle das persianas.
-*- Módulo Sensor de Umidade/Nível Água Chuva:*
+**-Módulo Sensor de Umidade/Nível Água Chuva:*
 Será utilizado para controlar o nível de água da piscina e a disponibilidade de água para regar o jardim
-*- Sensor ultrasônico HC-SR04:*
+**-Sensor ultrasônico HC-SR04:*
 Será responsável por detectar presença nas entradas como portas e janelas
-*- Display LCD 16×2 I2C Backlight Azul:*
+**-Display LCD 16×2 I2C Backlight Azul:*
 Realizará a comunicação com o usuário para o controle do sistema de seguraça
 
 
