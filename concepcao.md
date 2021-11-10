@@ -33,3 +33,5 @@ O módulo relá será responssável para fazer o controle das luzes
 *- Buzzer passivo:*
 
 *-Display LCD 16×2 I2C Backlight Azul:*
+
+- Controlar a Iluminação dos Cômodos;
