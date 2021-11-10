@@ -6,7 +6,7 @@ Neste projeto, será utilizado o conceito da domótica com objetivo de moderniza
 Os principais objetivos de automação são:
 
 - Sensoriamento de gás de cozinha, ativando o buzzer para sinalizar a detectação de gas e desabilitar o acionamento das luzes para evitar acidentes e ativando a matriz de led para iluminação
-- Controlar um portão com acionamento eletrônico de forma inteligente
+- Controlar um portão com acionamento eletrônico de forma inteligente avisando o usuário quando existir a presença de visitas atravez do display lcd
 - Efetuar o sensoriamento de temperatura e umidade com o controle das janelas
 - Controle do nível de água, informando quando deve ser realizado o reabastecimento de água da piscina e regado as plantas do quintal
 - Sistema de seguraça nas entradas e janelas e detectação de movimento quando o usuário não estiver presente. Caso o sistema seja acionado o buzzer será ativado como forma de sinalização
