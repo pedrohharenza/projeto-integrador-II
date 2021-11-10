@@ -1,7 +1,7 @@
 
 # Concepção
 
-Neste projeto, será utilizado o conceito da domótica com objetivo de modernizar e automatizar funções básicas dentro de uma casa a partir das necessidades do usuário, mantendo o menor custo possível. Será utilizada uma maquete como referência.
+Neste projeto, será utilizado o conceito da domótica com objetivo de modernizar e automatizar funções básicas dentro de uma casa a partir das necessidades do usuário exemplificando as possíveis tecnologias que podem ser implementadas além de manter o menor custo possível. Será utilizada uma maquete como referência.
 
 Os principais objetivos de automação são:
 
