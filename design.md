@@ -29,4 +29,5 @@ Quantidade  | Tecnologias
 1           | Módulo Matriz de LED 8×8 com MAX7219
 1           | Display LCD 16×2 I2C 
 1           | Seensor de Presença PIR 
-1           | Buzzer 
+1           | Buzzer
+1           | Toggle Switch (Interruptor da Cozinha)
