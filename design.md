@@ -9,7 +9,6 @@ O diagrama de montagem mostra como será realizada as ligações de cada tenolog
 
 ![qweqwe](https://user-images.githubusercontent.com/92868328/145195751-9b7ff73f-a25e-4022-8b52-78c6e2cc6838.png)
 
-![image](https://user-images.githubusercontent.com/92868328/145211766-0d48ab2f-3cbc-441b-83a6-762b54aa4bde.png)
 
 ## Planta baixa:
 
