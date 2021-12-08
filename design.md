@@ -9,7 +9,8 @@ Aqui na parte do design será estabelecido como serão montados os componentes d
 
 ## Planta baixa:
 
-![planta baixa design pi2](https://user-images.githubusercontent.com/92868328/145195851-ead4571b-0830-43ee-a079-827831b42990.png)
+![planta baixa design pi2](https://user-images.githubusercontent.com/92868328/145198906-9bcd7558-f908-4047-88ef-d52aedd6a81d.png)
+
 
 ## Componentes:
 Quantidade  | Tecnologias
