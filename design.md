@@ -11,6 +11,8 @@ O diagrama de montagem mostra como será realizada as ligações de cada tenolog
 
 ## Planta baixa:
 
+A imagem a seguir é planta baixa da casa que será montada e mostra como será distribuidas cada função exemplificada no projeto e onde será montada cada tecnologia
+
 ![planta baixa design pi2](https://user-images.githubusercontent.com/92868328/145198906-9bcd7558-f908-4047-88ef-d52aedd6a81d.png)
 
 
