@@ -16,7 +16,7 @@ A imagem a seguir é planta baixa da casa que será montada e mostra como será 
 ![planta baixa design pi2](https://user-images.githubusercontent.com/92868328/145198906-9bcd7558-f908-4047-88ef-d52aedd6a81d.png)
 
 
-## Componentes:
+## Lista de Componentes:
 Quantidade  | Tecnologias
 :---------:   | ------
 1           | Placa Arduino MEGA 2560 R3
