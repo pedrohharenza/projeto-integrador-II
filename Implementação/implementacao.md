@@ -9,3 +9,9 @@ Para realizar a construção do protótipo foi realizado testes com cada compone
 - [Sensor de gás na cozinha](Funcionalidade_Gas.md)
 - [Sensor de temperatura](Funcionalidade_Temp.md)
 - [Sensor de nível de água](Funcionalidade_Agua.md)
+
+As imagens a seguir mostram como o protótipo foi montado
+
+<img src = "1.jpeg" alt = "portao circuito" width = "1000" />
+<img src = "2.jpeg" alt = "portao circuito" width = "1000" />
+<img src = "3.jpeg" alt = "portao circuito" width = "1000" />
